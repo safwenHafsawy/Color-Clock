@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+body{
+    background-color: #641E16;
+}
+
+#clock{
+    font-family: 'Special Elite', cursive;
+    font-size: 150px;
+    align-self: center;
+    color: whitesmoke;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
